@@ -1,6 +1,6 @@
-# trivago_assignment
+# Cypress_API_and_Web_Testing
 
-For given tasks, solutions are implemented in Cypress, Javascript and Cucumber.
+This project is implemented in Cypress, Javascript and Cucumber.
 1. Writing E2E tests for a checkout process (tests/e2e)
 - e2e_tests.feature - This file contains scenario and steps for GUI automation.
 2. Testing some API endpoints (tests/api)
@@ -23,7 +23,3 @@ For given tasks, solutions are implemented in Cypress, Javascript and Cucumber.
 
 4. To execute scripts from cypress playground, execute below command and click on desired feature file:
 > `./node_modules/.bin/cypress open`
-
-# Note:
-1. First task is covered in single scenario and is resulting 'Pass'.
-2. Second task is divided into 4 scenarios and one of it is failing as mentioned in the task. So, the test results are as expected.
